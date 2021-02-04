@@ -1,0 +1,36 @@
+.footer {
+  background-color: #e9b0df;
+  opacity: 0.6;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+/*.footer .links{
+  display: block;
+}
+*/
+
+.footer .list-inline{
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.footer .list-inline > li {
+  display: inline-block;
+  padding: 10px;
+  font-size: 36px;
+}
+
+.footer .links a:hover{
+  color:white;
+}
+
+.footer .links a {
+  color:#8b5e83;
+}
+
+.footer h3{
+  font-size: 30px;
+}
+
